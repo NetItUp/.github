@@ -6,11 +6,6 @@ From a small startup, we quickly climbed the ranks to become a leader in the bus
 Over the years, we have specialized in Odoo ERP, offering tailored implementations, custom module development, and seamless integrations that empower companies to optimize their processes and scale efficiently.
 
 Through a journey of innovation and cybersecurity, we have solidified our position as a trusted reference point not only in Udine, but also beyond local borders.
-
-<### 🛠️ Our Tools>
-
-<![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)>
-
 ---
 
 # 📬 Contacts
