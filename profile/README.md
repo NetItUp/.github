@@ -2,10 +2,9 @@
 
 Net It Up was founded in 2013 by Adriano Giacomini with the goal of becoming a benchmark in the field of IT Management.
 From a small startup, we quickly climbed the ranks to become a leader in the business IT solutions sector.
-
 Over the years, we have specialized in Odoo ERP, offering tailored implementations, custom module development, and seamless integrations that empower companies to optimize their processes and scale efficiently.
-
 Through a journey of innovation and cybersecurity, we have solidified our position as a trusted reference point not only in Udine, but also beyond local borders.
+
 ---
 
 # 📬 Contacts
